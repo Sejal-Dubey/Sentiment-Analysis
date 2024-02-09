@@ -36,7 +36,7 @@ Similarly, for sentiment classification into positive, negative, and neutral cat
 
 To gain deeper insights, we chose to perform Exploratory Data Analysis (EDA) on the Apify-scraped dataset using the emotion labels. This decision was based on the dynamic nature of people's emotions during the crisis, making labels like positive, negative, and neutral less suitable for in-depth analysis.So adding labels of emotion helped to gain deeper insights which are as follows-
 
--Sentiment trend over time
+# Sentiment trend over time
 We plotted Timestamp of emotions over time
 Insights from trends:
 
@@ -53,7 +53,7 @@ stormed and burned, Gotabaya and Wickremesinghe both agreed to resign from their
 respective posts as Sri Lanka’s president and Prime Minister. Thus, sudden increase in label
 1 denoting joy sentiment among people.
 
--Barplot of top 10 influential users
+# Barplot of top 10 influential users
 
 The barplot of username vs number of tweets gives an idea of activeness of particular person
 or organization in posting retweets related to SriLanka crisis trendy hashtags which could be
@@ -62,7 +62,7 @@ approach those users to spread positivity and maintain the intensity of angernes
 people by using hashtags like “#Crisisrelief”,”#United against crisis”,”#Resilience in
 SriLanaka” and “#Stand with SriLanka”.
 
--Essential and Non-essential Items related tweets over time
+# Essential and Non-essential Items related tweets over time
 Plotting line plot of essential and non-essential items over time to get an insight of how
 demand of essentials increased or decreased based on frequency number of tweets during
 those period of time.As it can be seen that tweets related to essential items increased during
