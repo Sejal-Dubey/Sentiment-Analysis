@@ -1,6 +1,6 @@
 # Sentiment-Analysis on Srilankan crisis tweets
 
-1.  ## Introduction
+## 1.Introduction
 
 The Sri Lankan economic crisis, unfolding in 2019, became a global topic of discussion, drawing attention to the challenges faced by its citizens. Amidst deteriorating conditions, as reported by news channels and social media, the crisis painted a vivid picture of the struggles experienced by the people. The need to analyze the sentiments expressed during such challenging times became apparent.
 
@@ -9,7 +9,7 @@ This project delves into the sentiments of individuals as captured in social med
 In the subsequent sections, we will explore the methodology employed in sentiment analysis, the machine learning models utilized, data collection processes, and the outcomes of exploratory data analysis (EDA). This comprehensive analysis aims to contribute valuable insights for fostering a better understanding of public sentiment during times of crisis.
 
 
-2. ## Methodology
+## 2. Methodology
 In this section, we elucidate the methodology employed for sentiment analysis, encompassing data collection, model selection, and the workflow adopted throughout the project.
 
 ### 2.1 Data Collection
