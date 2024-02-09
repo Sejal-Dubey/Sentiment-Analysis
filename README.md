@@ -34,7 +34,77 @@ Similarly, for sentiment classification into positive, negative, and neutral cat
 
 3. ## Exploratory Data Analysis (EDA)
 
-To gain deeper insights, we chose to perform Exploratory Data Analysis (EDA) on the Apify-scraped dataset using the emotion labels. This decision was based on the dynamic nature of people's emotions during the crisis, making labels like positive, negative, and neutral less suitable for in-depth analysis.
+To gain deeper insights, we chose to perform Exploratory Data Analysis (EDA) on the Apify-scraped dataset using the emotion labels. This decision was based on the dynamic nature of people's emotions during the crisis, making labels like positive, negative, and neutral less suitable for in-depth analysis.So adding labels of emotion helped to gain deeper insights which are as follows-
+
+-Sentiment trend over time
+We plotted Timestamp of emotions over time
+Insights from trends:
+
+a)-During lockdown period from December 2019 to December 2021,sentiment label 4
+denoting fear and label 5 denoting surprise can be observed.
+
+b-) Protest began from 2021 against President Gotabaya Rajapaksa’s ruling government’s
+inefficiency in balancing external debt and handling after covid critical situations, people
+where disappointed due to implementation of policies like organic farming. So all emotions
+started raising from these period.
+
+c-) On 9 July 2022, amid reports that their homes were
+stormed and burned, Gotabaya and Wickremesinghe both agreed to resign from their
+respective posts as Sri Lanka’s president and Prime Minister. Thus, sudden increase in label
+1 denoting joy sentiment among people.
+
+-Barplot of top 10 influential users
+
+The barplot of username vs number of tweets gives an idea of activeness of particular person
+or organization in posting retweets related to SriLanka crisis trendy hashtags which could be
+further used to as a means to spread solidarity during crisis times like government can
+approach those users to spread positivity and maintain the intensity of angerness among
+people by using hashtags like “#Crisisrelief”,”#United against crisis”,”#Resilience in
+SriLanaka” and “#Stand with SriLanka”.
+
+-Essential and Non-essential Items related tweets over time
+Plotting line plot of essential and non-essential items over time to get an insight of how
+demand of essentials increased or decreased based on frequency number of tweets during
+those period of time.As it can be seen that tweets related to essential items increased during
+2022 as protests rate were very high during at that time which led to declaration of
+emergency and thus essential commodities demand increased so people posted more number
+of tweets related to essential items hashtags like ”#foodcrisis”,”#food”,”#fuel” and
+”#inflation”.
+
+# Conclusion
+The sentiment analysis of tweets related to the Sri Lanka crisis has provided valuable insights
+into the emotional landscape of the people during this challenging period. The analysis
+revealed the timeline of sentiments, from fear and surprise during the lockdown period to a
+surge in joy when significant political changes took place. It also highlighted the top concerns
+of the population, such as essential items and non-essential items, providing a comprehensive
+understanding of their priorities. Additionally, identifying influential users can be a strategic
+approach to maintaining public sentiment and spreading solidarity during crisis times. The
+insights gained from this analysis can serve as a useful resource for government organizations
+and other stakeholders to address the concerns of the citizens effectively and promote
+positive engagement. By leveraging sentiment analysis, we can better understand and respond
+to the needs of the people during times of crisis, thereby working towards a more resilient
+and united Sri Lanka.
+
+# References
+References:
+
+• Title: Sri Lanka: Reshuffle begins after cabinet quits over protests
+Source: BBC News
+URL: https://www.bbc.com/news/world-asia-60975941
+Published Date: 04 April 2022
+• Title: Sri Lanka: Gotabaya Rajapaksa: Angry Sri Lankans want president to go
+Source: BBC News
+URL: https://www.bbc.com/news/world-asia-60979177
+• Title: Emergency in Sri Lanka! | Economic Crisis Explained | Dhruv Rathee
+Source: Dhruv Rathee on YouTube
+URL: https://youtu.be/LLw-T_d-wWo?feature=shared
+Published Date: 14 May 2022
+• Title: Sri Lanka: Sri Lankan Prime Minister Resigns! | Dynasty Rule Still Continues |
+Dhruv Rathee
+Source: Dhruv Rathee on YouTube
+URL: https://youtu.be/hdBUo3P-sU8?feature=share
+Published Date: 05 April 2022
+
 
 
 
