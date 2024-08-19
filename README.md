@@ -38,7 +38,7 @@ To gain deeper insights, we chose to perform Exploratory Data Analysis (EDA) on 
 
 # Sentiment trend over time
 We plotted Timestamp of emotions over time
-![Image Description]![Picture1](https://github.com/user-attachments/assets/1acc6471-9d8a-4c65-b49d-2327e1567d0e)
+![Picture1](https://github.com/user-attachments/assets/1acc6471-9d8a-4c65-b49d-2327e1567d0e)
 
 Insights from trends:
 
@@ -55,7 +55,12 @@ stormed and burned, Gotabaya and Wickremesinghe both agreed to resign from their
 respective posts as Sri Lanka’s president and Prime Minister. Thus, sudden increase in label
 1 denoting joy sentiment among people.
 
+![Picture2](https://github.com/user-attachments/assets/a0f2b485-23c3-4c3a-b8aa-c33861bb800a)
+
 # Barplot of top 10 influential users
+
+![Picture3](https://github.com/user-attachments/assets/574dce91-0fb9-49d2-81aa-86a046484711)
+
 
 The barplot of username vs number of tweets gives an idea of activeness of particular person
 or organization in posting retweets related to SriLanka crisis trendy hashtags which could be
@@ -65,6 +70,8 @@ people by using hashtags like “#Crisisrelief”,”#United against crisis”,�
 SriLanaka” and “#Stand with SriLanka”.
 
 # Essential and Non-essential Items related tweets over time
+![Picture4](https://github.com/user-attachments/assets/c867d3ab-0a9f-4a85-9078-f35b0d7407ff)
+
 Plotting line plot of essential and non-essential items over time to get an insight of how
 demand of essentials increased or decreased based on frequency number of tweets during
 those period of time.As it can be seen that tweets related to essential items increased during
