@@ -38,6 +38,8 @@ To gain deeper insights, we chose to perform Exploratory Data Analysis (EDA) on 
 
 # Sentiment trend over time
 We plotted Timestamp of emotions over time
+![Image Description]![Picture1](https://github.com/user-attachments/assets/1acc6471-9d8a-4c65-b49d-2327e1567d0e)
+
 Insights from trends:
 
 a)-During lockdown period from December 2019 to December 2021,sentiment label 4
